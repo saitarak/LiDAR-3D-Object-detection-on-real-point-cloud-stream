@@ -1,5 +1,7 @@
 Lidar sends laser beam and using the time it takes to emit and receive the signal, the distance to an obstacle is measured. In this project Lidar segmentation, clustering, downsampling and filtering are performed on real time point cloud data. The result can be observed in the figure below for real time streaming of point cloud data.
 
+![image](https://user-images.githubusercontent.com/56512360/202426451-bf79a360-0409-4d20-ac79-01a7c58efea3.png)
+
 ## Classroom Workspace
 
 The workspace provided in the SFND classroom comes preinstallated with everything that you need to finish the exercises and projects. Versions used by Udacity for this ND are as follows:
